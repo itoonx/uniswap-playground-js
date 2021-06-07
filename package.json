@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/itoonx/uniswap-playground-js/issues"
   },
-  "homepage": "https://github.com/itoonx/uniswap-playground-js#readme"
+  "homepage": "https://github.com/itoonx/uniswap-playground-js#readme",
+  "dependencies": {
+    "keccak256": "^1.0.2"
+  }
 }
